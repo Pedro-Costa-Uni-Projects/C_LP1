@@ -1,0 +1,9 @@
+Supor a declaração: int mat[4], *p, x; Quais expressões são válidas? Justifique:
+
+a. p = mat + 1; <-
+
+b. p = mat++;
+
+c. p = ++mat;
+
+d. x = (*mat)++; <-
